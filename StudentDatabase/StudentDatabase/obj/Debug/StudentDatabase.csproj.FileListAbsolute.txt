@@ -1,0 +1,7 @@
+C:\Users\Shivani.Mandoddi\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+C:\Users\Shivani.Mandoddi\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+C:\Users\Shivani.Mandoddi\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\Shivani.Mandoddi\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\Shivani.Mandoddi\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Mandoddi\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+C:\Users\Shivani.Mandoddi\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb

@@ -1,0 +1,7 @@
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnInterface\PracticeOnInterface\bin\Debug\PracticeOnInterface.exe.config
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnInterface\PracticeOnInterface\bin\Debug\PracticeOnInterface.exe
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnInterface\PracticeOnInterface\bin\Debug\PracticeOnInterface.pdb
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnInterface\PracticeOnInterface\obj\Debug\PracticeOnInterface.csproj.AssemblyReference.cache
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnInterface\PracticeOnInterface\obj\Debug\PracticeOnInterface.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnInterface\PracticeOnInterface\obj\Debug\PracticeOnInterface.exe
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnInterface\PracticeOnInterface\obj\Debug\PracticeOnInterface.pdb

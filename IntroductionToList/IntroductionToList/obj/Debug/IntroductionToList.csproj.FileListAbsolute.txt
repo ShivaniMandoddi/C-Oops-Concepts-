@@ -1,0 +1,7 @@
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToList\IntroductionToList\bin\Debug\IntroductionToList.exe.config
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToList\IntroductionToList\bin\Debug\IntroductionToList.exe
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToList\IntroductionToList\bin\Debug\IntroductionToList.pdb
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToList\IntroductionToList\obj\Debug\IntroductionToList.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToList\IntroductionToList\obj\Debug\IntroductionToList.exe
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToList\IntroductionToList\obj\Debug\IntroductionToList.pdb
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToList\IntroductionToList\obj\Debug\IntroductionToList.csproj.AssemblyReference.cache

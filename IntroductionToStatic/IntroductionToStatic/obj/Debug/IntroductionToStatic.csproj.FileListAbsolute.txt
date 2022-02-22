@@ -1,0 +1,7 @@
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToStatic\IntroductionToStatic\bin\Debug\IntroductionToStatic.exe.config
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToStatic\IntroductionToStatic\bin\Debug\IntroductionToStatic.exe
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToStatic\IntroductionToStatic\bin\Debug\IntroductionToStatic.pdb
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToStatic\IntroductionToStatic\obj\Debug\IntroductionToStatic.csproj.AssemblyReference.cache
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToStatic\IntroductionToStatic\obj\Debug\IntroductionToStatic.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToStatic\IntroductionToStatic\obj\Debug\IntroductionToStatic.exe
+C:\Users\Shivani.Mandoddi\source\repos\IntroductionToStatic\IntroductionToStatic\obj\Debug\IntroductionToStatic.pdb

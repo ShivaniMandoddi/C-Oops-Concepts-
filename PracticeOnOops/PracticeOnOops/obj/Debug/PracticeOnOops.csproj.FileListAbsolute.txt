@@ -1,0 +1,7 @@
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnOops\PracticeOnOops\bin\Debug\PracticeOnOops.exe.config
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnOops\PracticeOnOops\bin\Debug\PracticeOnOops.exe
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnOops\PracticeOnOops\bin\Debug\PracticeOnOops.pdb
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnOops\PracticeOnOops\obj\Debug\PracticeOnOops.csproj.AssemblyReference.cache
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnOops\PracticeOnOops\obj\Debug\PracticeOnOops.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnOops\PracticeOnOops\obj\Debug\PracticeOnOops.exe
+C:\Users\Shivani.Mandoddi\source\repos\PracticeOnOops\PracticeOnOops\obj\Debug\PracticeOnOops.pdb
